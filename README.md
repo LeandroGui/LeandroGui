@@ -1,8 +1,4 @@
-<img src="https://img.shields.io">
 
-![Python](https://img.shields.io)
-![R](https://img.shields.io)
-![AI Agents](https://img.shields.io)
 
 # Hola, soy Leandro 👋
 ### Analista de Datos & AI Agent Engineer
