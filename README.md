@@ -6,8 +6,6 @@
 
 Estudiante de **Licenciatura en Análisis y Gestión de Datos**, especializado en el desarrollo de arquitecturas de IA generativa y automatización autónoma.
 
----
-
 Visión: Ante el avance de la Inteligencia Artificial, estoy convencido de que el futuro del trabajo no es el reemplazo, sino la co-evolución. Todo profesional contará con su propio Sistema Agéntico especializado en su área de expertise. En este paradigma, el profesional evoluciona a un rol de Auditor y Co-equiper, supervisando y potenciando la ejecución autónoma de la IA.
 
 ---
