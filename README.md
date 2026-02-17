@@ -1,4 +1,5 @@
-
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![AI Agents](https://img.shields.io/badge/AI-Agents-purple?style=for-the-badge)
 
 # Hola, soy Leandro 👋
 ### AI Agent Engineer
