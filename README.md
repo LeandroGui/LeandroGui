@@ -14,7 +14,7 @@ Estudiante de **Licenciatura en Análisis y Gestión de Datos**, especializado e
 Sistema avanzado de orquestación donde un **Agente Gerente** delega tareas complejas a subagentes especializados.
 - **Capacidades actuales:** Razonamiento matemático, ejecución de código híbrido (Python/R) y manipulación de archivos local.
 - **Roadmap:** Integración de **MCP (Model Context Protocol)** para interoperabilidad de herramientas, **n8n** para flujos de trabajo extensos y acceso seguro a internet.
-- **Stack:** Python, R, LangChain/CrewAI, RAG.
+- **Stack:** Python, R, LLMs, Gemini, Groq, Streamlit, Pydantic, Chroma, Prompt Engineering, RAG, Agents, Skills, MCP, Docker.
 
 ---
 
