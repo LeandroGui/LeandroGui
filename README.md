@@ -18,10 +18,10 @@ Sistema avanzado de orquestación donde un **Agente Gerente** delega tareas comp
 - **Roadmap:** Integración de **MCP (Model Context Protocol)** para interoperabilidad de herramientas, **n8n** para flujos de trabajo extensos y acceso seguro a internet.
 - **Stack:** Python, R, LLMs, Gemini, Groq, Streamlit, Pydantic, Chroma, Prompt Engineering, RAG, Agents, Skills, MCP, Docker.
 
-### 🕹️ Current Mission: [Sistema Agéntico Autónomo](URL_DE_TU_REPOSITORIO)
+### 🕹️ Current Mission: Sistema Agéntico Autónomo
 > **Status:** Active Development | **Role:** Lead Architect  
 > Sistema de orquestación con arquitectura Gerente-Subagente para análisis de datos avanzado.  
-> [Ver Documentación y Capturas de Pantalla ↗](URL_DE_TU_REPOSITORIO)
+> [Ver Documentación y Capturas de Pantalla ↗](https://github.com/LeandroGui/autonomous-agentic-system)
 
 ---
 
