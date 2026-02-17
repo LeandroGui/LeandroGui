@@ -1,3 +1,7 @@
+![Python](https://img.shields.io)
+![R](https://img.shields.io)
+![AI Agents](https://img.shields.io)
+
 # Hola, soy Leandro 👋
 ### Analista de Datos & AI Agent Engineer
 
@@ -17,10 +21,10 @@ Sistema avanzado de orquestación donde un **Agente Gerente** delega tareas comp
 
 ## 🎓 Formación Especializada
 
-- **Licenciatura en Análisis y Gestión de Datos** | [Tu Universidad]
-- **Full-Stack AI (RAG & Agents) Engineer** | [Lugar del Bootcamp]
-- **Full-Stack AI (LLM) Engineer** | [Lugar del Bootcamp]
-- **Python Bootcamp** | [Lugar del Bootcamp]
+- **Licenciatura en Análisis y Gestión de Datos** | Universidad Nacional de San Luis
+- **Full-Stack AI (RAG & Agents) Engineer** | AI Planet
+- **Full-Stack AI (LLM) Engineer** | AI Planet
+- **Python Bootcamp** | Fundación Educativa Santísima Trinidad (FESAT)
 
 ---
 
