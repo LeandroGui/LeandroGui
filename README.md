@@ -31,6 +31,6 @@ Sistema avanzado de orquestación donde un **Agente Gerente** delega tareas comp
 
 ## 🛠️ Tech Stack
 
-- **IA & Agentes:** RAG, Agents, LLMs, Multi-agent Orchestration, MCP, n8n.
+- **IA & Agentes:** RAG, Agents, LLMs, Multi-agent Orchestration, MCP, n8n, Prompt Engineering.
 - **Lenguajes:** Python (Pandas, NumPy), R (Tidyverse, Análisis Matemático), SQL.
 - **Herramientas:** Git, Docker, Automatización de Procesos.
