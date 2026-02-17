@@ -1,7 +1,7 @@
 
 
 # Hola, soy Leandro 👋
-### Analista de Datos & AI Agent Engineer
+### AI Agent Engineer
 
 Estudiante de **Licenciatura en Análisis y Gestión de Datos**, especializado en el desarrollo de arquitecturas de IA generativa y automatización autónoma.
 
